@@ -1,0 +1,24 @@
+ARG BASE_VERSION=15.1-pkg-latest
+FROM ghcr.io/daemonless/base-core:${BASE_VERSION}
+
+ARG PKG_NAME
+ARG FREEBSD_ARCH=amd64
+
+LABEL org.opencontainers.image.title="Node.js" \
+      org.opencontainers.image.description="JavaScript runtime built on Chrome's V8 engine, with npm included for building and running Node.js applications." \
+      org.opencontainers.image.source="https://github.com/daemonless/node" \
+      org.opencontainers.image.url="https://nodejs.org/" \
+      org.opencontainers.image.licenses="MIT" \
+      org.opencontainers.image.vendor="daemonless" \
+      org.opencontainers.image.authors="daemonless" \
+      io.daemonless.category="Base" \
+      io.daemonless.arch="${FREEBSD_ARCH}"
+
+# Install Node.js, npm, and corepack for package-manager shims.
+RUN pkg update && \
+    pkg install -y ${PKG_NAME} npm-${PKG_NAME} corepack && \
+    corepack enable && \
+    mkdir -p /app && \
+    pkg query %v ${PKG_NAME} > /app/version && \
+    pkg clean -ay && \
+    rm -rf /var/cache/pkg/* /var/db/pkg/repos/*

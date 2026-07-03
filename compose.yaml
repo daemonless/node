@@ -1,0 +1,20 @@
+name: node
+
+x-daemonless:
+  title: "Node.js"
+  icon: ":simple-nodedotjs:"
+  category: "Base"
+  description: "JavaScript runtime built on Chrome's V8 engine, with npm included for building and running Node.js applications."
+  upstream_url: "https://github.com/nodejs/node"
+  web_url: "https://nodejs.org/"
+  freshports_url: "https://www.freshports.org/www/node/"
+  license: "MIT"
+  user: "root"
+  mlock: false
+  community: "Discord:https://discord.gg/Kb9tkhecZT"
+  appjail: true
+  class: "base"
+
+  docs: {}
+
+services: {}

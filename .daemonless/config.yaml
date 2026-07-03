@@ -1,0 +1,32 @@
+build:
+  variants:
+    - tag: 20-pkg-latest
+      pkg_name: node20
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15.1-pkg-latest"
+      aliases: ["20"]
+    - tag: 22-pkg-latest
+      pkg_name: node22
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15.1-pkg-latest"
+      aliases: ["22"]
+    - tag: 24-pkg-latest
+      pkg_name: node24
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15.1-pkg-latest"
+      aliases: ["24", "pkg", "pkg-latest"]
+    - tag: 25-pkg-latest
+      pkg_name: node25
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15.1-pkg-latest"
+      aliases: ["25"]
+    - tag: 26-pkg-latest
+      pkg_name: node26
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15.1-pkg-latest"
+      aliases: ["26", "latest"]
