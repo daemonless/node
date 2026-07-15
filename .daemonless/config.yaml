@@ -18,12 +18,6 @@ build:
       args:
         BASE_VERSION: "15.1-pkg-latest"
       aliases: ["24", "pkg", "pkg-latest"]
-    - tag: 25-pkg-latest
-      pkg_name: node25
-      containerfile: Containerfile
-      args:
-        BASE_VERSION: "15.1-pkg-latest"
-      aliases: ["25"]
     - tag: 26-pkg-latest
       pkg_name: node26
       containerfile: Containerfile
