@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-10T07:28:43Z",
+  "generated": "2026-08-20T07:26:24Z",
   "image": "node",
   "tags": {
     "20-pkg-latest": {
       "app_version": "20.20.2_2",
       "arch": "amd64",
-      "generated": "2026-08-10T07:26:45Z",
+      "generated": "2026-08-19T15:50:50Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -379,14 +379,14 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.8.1_1"
+            "version": "2.8.4"
           },
           {
             "licenses": [
               "PSFL"
             ],
             "name": "python312",
-            "version": "3.12.13_3"
+            "version": "3.12.14"
           },
           {
             "licenses": [
@@ -1151,7 +1151,7 @@
     "22-pkg-latest": {
       "app_version": "22.23.1",
       "arch": "amd64",
-      "generated": "2026-08-10T07:27:03Z",
+      "generated": "2026-08-20T07:25:29Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1398,7 +1398,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.125"
+            "version": "3.126.1"
           },
           {
             "licenses": [
@@ -1470,7 +1470,7 @@
               "MIT"
             ],
             "name": "libffi",
-            "version": "3.7.1"
+            "version": "3.8.0"
           },
           {
             "licenses": [
@@ -1548,14 +1548,14 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.8.1_1"
+            "version": "2.8.4"
           },
           {
             "licenses": [
               "PSFL"
             ],
             "name": "python312",
-            "version": "3.12.13_3"
+            "version": "3.12.14"
           },
           {
             "licenses": [
@@ -2342,7 +2342,7 @@
     "24-pkg-latest": {
       "app_version": "24.18.0",
       "arch": "amd64",
-      "generated": "2026-08-10T07:26:26Z",
+      "generated": "2026-08-20T07:25:16Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2589,7 +2589,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.125"
+            "version": "3.126.1"
           },
           {
             "licenses": [
@@ -2676,7 +2676,7 @@
               "MIT"
             ],
             "name": "libffi",
-            "version": "3.7.1"
+            "version": "3.8.0"
           },
           {
             "licenses": [
@@ -2769,14 +2769,14 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.8.1_1"
+            "version": "2.8.4"
           },
           {
             "licenses": [
               "PSFL"
             ],
             "name": "python312",
-            "version": "3.12.13_3"
+            "version": "3.12.14"
           },
           {
             "licenses": [
@@ -3571,7 +3571,7 @@
     "26-pkg-latest": {
       "app_version": "26.5.0",
       "arch": "amd64",
-      "generated": "2026-08-10T07:26:34Z",
+      "generated": "2026-08-20T07:25:31Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3818,7 +3818,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.125"
+            "version": "3.126.1"
           },
           {
             "licenses": [
@@ -3905,7 +3905,7 @@
               "MIT"
             ],
             "name": "libffi",
-            "version": "3.7.1"
+            "version": "3.8.0"
           },
           {
             "licenses": [
@@ -4020,14 +4020,14 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.8.1_1"
+            "version": "2.8.4"
           },
           {
             "licenses": [
               "PSFL"
             ],
             "name": "python312",
-            "version": "3.12.13_3"
+            "version": "3.12.14"
           },
           {
             "licenses": [

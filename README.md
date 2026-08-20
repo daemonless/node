@@ -19,10 +19,10 @@ JavaScript runtime built on Chrome's V8 engine, with npm included for building a
 ## Version Tags
 | Tag | Description | Best For |
 | :--- | :--- | :--- |
-| `20` / `20-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
-| `22` / `22-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
-| `24` / `24-pkg-latest` / `pkg` / `pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
-| `26` / `26-pkg-latest` / `latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
+| `20` / `20-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
+| `22` / `22-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
+| `24` / `24-pkg-latest` / `pkg` / `pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
+| `26` / `26-pkg-latest` / `latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
 
 **Architectures:** amd64
 **User:** `root` (UID/GID via PUID/PGID, defaults to 1000:1000)
