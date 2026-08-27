@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-20T07:26:24Z",
+  "generated": "2026-08-27T14:53:36Z",
   "image": "node",
   "tags": {
     "20-pkg-latest": {
       "app_version": "20.20.2_2",
       "arch": "amd64",
-      "generated": "2026-08-19T15:50:50Z",
+      "generated": "2026-08-27T14:52:39Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -252,7 +252,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.125"
+            "version": "3.126.1"
           },
           {
             "licenses": [
@@ -266,7 +266,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.2"
+            "version": "2.8.3"
           },
           {
             "licenses": [
@@ -309,28 +309,28 @@
               "MIT"
             ],
             "name": "libffi",
-            "version": "3.7.1"
+            "version": "3.8.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.69.0"
+            "version": "1.70.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.17.0"
+            "version": "1.18.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.24.0"
+            "version": "1.25.0"
           },
           {
             "licenses": [
@@ -401,7 +401,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.6"
+            "version": "4.6.8"
           }
         ],
         "go": [],
@@ -1149,9 +1149,9 @@
       }
     },
     "22-pkg-latest": {
-      "app_version": "22.23.1",
+      "app_version": "22.23.2",
       "arch": "amd64",
-      "generated": "2026-08-20T07:25:29Z",
+      "generated": "2026-08-27T14:52:58Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1412,7 +1412,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.2"
+            "version": "2.8.3"
           },
           {
             "licenses": [
@@ -1485,21 +1485,21 @@
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.69.0"
+            "version": "1.70.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.17.0"
+            "version": "1.18.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.24.0"
+            "version": "1.25.0"
           },
           {
             "licenses": [
@@ -1527,7 +1527,7 @@
               "MIT"
             ],
             "name": "node22",
-            "version": "22.23.1"
+            "version": "22.23.2"
           },
           {
             "licenses": [
@@ -1570,14 +1570,14 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.6"
+            "version": "4.6.8"
           },
           {
             "licenses": [
               "PD"
             ],
             "name": "sqlite3",
-            "version": "3.53.3,1"
+            "version": "3.53.4,1"
           },
           {
             "licenses": [
@@ -2340,9 +2340,9 @@
       }
     },
     "24-pkg-latest": {
-      "app_version": "24.18.0",
+      "app_version": "24.19.0",
       "arch": "amd64",
-      "generated": "2026-08-20T07:25:16Z",
+      "generated": "2026-08-27T14:50:34Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2603,7 +2603,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.2"
+            "version": "2.8.3"
           },
           {
             "licenses": [
@@ -2691,21 +2691,21 @@
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.69.0"
+            "version": "1.70.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.17.0"
+            "version": "1.18.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.24.0"
+            "version": "1.25.0"
           },
           {
             "licenses": [
@@ -2727,7 +2727,7 @@
               "APACHE20"
             ],
             "name": "merve",
-            "version": "1.2.2_1"
+            "version": "1.2.2_2"
           },
           {
             "licenses": [
@@ -2748,7 +2748,7 @@
               "MIT"
             ],
             "name": "node24",
-            "version": "24.18.0"
+            "version": "24.19.0"
           },
           {
             "licenses": [
@@ -2791,7 +2791,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.6"
+            "version": "4.6.8"
           },
           {
             "licenses": [
@@ -2799,14 +2799,14 @@
               "APACHE20"
             ],
             "name": "simdutf",
-            "version": "9.0.0"
+            "version": "9.1.0"
           },
           {
             "licenses": [
               "PD"
             ],
             "name": "sqlite3",
-            "version": "3.53.3,1"
+            "version": "3.53.4,1"
           },
           {
             "licenses": [
@@ -3569,9 +3569,9 @@
       }
     },
     "26-pkg-latest": {
-      "app_version": "26.5.0",
+      "app_version": "26.7.0",
       "arch": "amd64",
-      "generated": "2026-08-20T07:25:31Z",
+      "generated": "2026-08-27T14:52:25Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3832,7 +3832,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.2"
+            "version": "2.8.3"
           },
           {
             "licenses": [
@@ -3927,21 +3927,21 @@
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.69.0"
+            "version": "1.70.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.17.0"
+            "version": "1.18.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.24.0"
+            "version": "1.25.0"
           },
           {
             "licenses": [
@@ -3978,7 +3978,7 @@
               "APACHE20"
             ],
             "name": "merve",
-            "version": "1.2.2_1"
+            "version": "1.2.2_2"
           },
           {
             "licenses": [
@@ -3999,7 +3999,7 @@
               "MIT"
             ],
             "name": "node26",
-            "version": "26.5.0"
+            "version": "26.7.0"
           },
           {
             "licenses": [
@@ -4042,7 +4042,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.6"
+            "version": "4.6.8"
           },
           {
             "licenses": [
@@ -4050,7 +4050,7 @@
               "APACHE20"
             ],
             "name": "simdutf",
-            "version": "9.0.0"
+            "version": "9.1.0"
           },
           {
             "licenses": [
@@ -4064,7 +4064,7 @@
               "PD"
             ],
             "name": "sqlite3",
-            "version": "3.53.3,1"
+            "version": "3.53.4,1"
           },
           {
             "licenses": [
