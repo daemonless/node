@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-11T06:57:16Z",
+  "generated": "2026-09-14T07:38:37Z",
   "image": "node",
   "tags": {
     "20-pkg-latest": {
       "app_version": "20.20.2_2",
       "arch": "amd64",
-      "generated": "2026-09-11T06:56:28Z",
+      "generated": "2026-09-14T07:37:33Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -401,7 +401,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.11"
+            "version": "4.6.11_1"
           }
         ],
         "go": [],
@@ -1151,7 +1151,7 @@
     "22-pkg-latest": {
       "app_version": "22.23.2",
       "arch": "amd64",
-      "generated": "2026-09-11T06:56:28Z",
+      "generated": "2026-09-14T07:37:03Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1570,7 +1570,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.11"
+            "version": "4.6.11_1"
           },
           {
             "licenses": [
@@ -2340,9 +2340,9 @@
       }
     },
     "24-pkg-latest": {
-      "app_version": "24.20.0",
+      "app_version": "24.21.0",
       "arch": "amd64",
-      "generated": "2026-09-11T06:55:16Z",
+      "generated": "2026-09-14T07:37:39Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2748,7 +2748,7 @@
               "MIT"
             ],
             "name": "node24",
-            "version": "24.20.0"
+            "version": "24.21.0"
           },
           {
             "licenses": [
@@ -2791,7 +2791,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.11"
+            "version": "4.6.11_1"
           },
           {
             "licenses": [
@@ -2799,7 +2799,7 @@
               "APACHE20"
             ],
             "name": "simdutf",
-            "version": "9.1.0"
+            "version": "9.1.2"
           },
           {
             "licenses": [
@@ -3569,9 +3569,9 @@
       }
     },
     "26-pkg-latest": {
-      "app_version": "26.8.1",
+      "app_version": "26.8.2",
       "arch": "amd64",
-      "generated": "2026-09-11T06:55:16Z",
+      "generated": "2026-09-14T07:37:24Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3999,7 +3999,7 @@
               "MIT"
             ],
             "name": "node26",
-            "version": "26.8.1"
+            "version": "26.8.2"
           },
           {
             "licenses": [
@@ -4042,7 +4042,7 @@
               "APACHE20"
             ],
             "name": "simdjson",
-            "version": "4.6.11"
+            "version": "4.6.11_1"
           },
           {
             "licenses": [
@@ -4050,7 +4050,7 @@
               "APACHE20"
             ],
             "name": "simdutf",
-            "version": "9.1.0"
+            "version": "9.1.2"
           },
           {
             "licenses": [

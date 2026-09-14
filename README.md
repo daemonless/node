@@ -7,6 +7,7 @@ Source: dbuild templates
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/daemonless/node/build.yaml?style=flat-square&label=Build&color=green)](https://github.com/daemonless/node/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/daemonless/node?style=flat-square&label=Last+Commit&color=blue)](https://github.com/daemonless/node/commits)
+[![OCI Pulls](https://img.shields.io/docker/pulls/daemonless/node?style=flat-square&label=OCI+Pulls&color=blue)](https://hub.docker.com/r/daemonless/node)
 
 JavaScript runtime built on Chrome's V8 engine, with npm included for building and running Node.js applications.
 
