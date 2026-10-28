@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-25T10:02:37Z",
+  "generated": "2026-10-28T15:44:41Z",
   "image": "node",
   "tags": {
     "22-pkg-latest": {
-      "app_version": "22.23.2_2",
+      "app_version": "22.23.4",
       "arch": "amd64",
-      "generated": "2026-10-25T10:01:59Z",
+      "generated": "2026-10-28T15:41:11Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -252,7 +252,7 @@
               "MIT"
             ],
             "name": "brotli",
-            "version": "1.2.0,1"
+            "version": "1.2.1,1"
           },
           {
             "licenses": [
@@ -374,7 +374,7 @@
               "MIT"
             ],
             "name": "libuv",
-            "version": "1.52.1"
+            "version": "1.52.1_1"
           },
           {
             "licenses": [
@@ -395,7 +395,7 @@
               "MIT"
             ],
             "name": "node22",
-            "version": "22.23.2_2"
+            "version": "22.23.4"
           },
           {
             "licenses": [
@@ -1213,9 +1213,9 @@
       }
     },
     "24-pkg-latest": {
-      "app_version": "24.21.0_3",
+      "app_version": "24.22.1",
       "arch": "amd64",
-      "generated": "2026-10-25T10:01:43Z",
+      "generated": "2026-10-28T15:41:01Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1462,7 +1462,7 @@
               "MIT"
             ],
             "name": "brotli",
-            "version": "1.2.0,1"
+            "version": "1.2.1,1"
           },
           {
             "licenses": [
@@ -1599,7 +1599,7 @@
               "MIT"
             ],
             "name": "libuv",
-            "version": "1.52.1"
+            "version": "1.52.1_1"
           },
           {
             "licenses": [
@@ -1627,7 +1627,7 @@
               "MIT"
             ],
             "name": "node24",
-            "version": "24.21.0_3"
+            "version": "24.22.1"
           },
           {
             "licenses": [
@@ -2445,9 +2445,9 @@
       }
     },
     "26-pkg-latest": {
-      "app_version": "26.10.0_3",
+      "app_version": "26.12.1",
       "arch": "amd64",
-      "generated": "2026-10-25T10:01:21Z",
+      "generated": "2026-10-28T15:40:44Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2694,7 +2694,7 @@
               "MIT"
             ],
             "name": "brotli",
-            "version": "1.2.0,1"
+            "version": "1.2.1,1"
           },
           {
             "licenses": [
@@ -2845,7 +2845,7 @@
               "MIT"
             ],
             "name": "libuv",
-            "version": "1.52.1"
+            "version": "1.52.1_1"
           },
           {
             "licenses": [
@@ -2888,7 +2888,7 @@
               "MIT"
             ],
             "name": "node26",
-            "version": "26.10.0_3"
+            "version": "26.12.1"
           },
           {
             "licenses": [
