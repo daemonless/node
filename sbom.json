@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-14T22:32:34Z",
+  "generated": "2026-11-17T23:34:08Z",
   "image": "node",
   "tags": {
     "22-pkg-latest": {
-      "app_version": "22.23.4",
+      "app_version": "22.23.5",
       "arch": "amd64",
-      "generated": "2026-11-14T22:31:21Z",
+      "generated": "2026-11-17T23:32:41Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -346,28 +346,28 @@
               "GPLv2"
             ],
             "name": "liblz4",
-            "version": "1.10.0_2,1"
+            "version": "1.11.1,1"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.70.0"
+            "version": "1.71.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.18.0"
+            "version": "1.19.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.25.0"
+            "version": "1.26.0"
           },
           {
             "licenses": [
@@ -381,7 +381,7 @@
               "MIT"
             ],
             "name": "llhttp",
-            "version": "9.4.3"
+            "version": "9.4.4"
           },
           {
             "licenses": [
@@ -395,14 +395,14 @@
               "MIT"
             ],
             "name": "node22",
-            "version": "22.23.4"
+            "version": "22.23.5"
           },
           {
             "licenses": [
               "ART20"
             ],
             "name": "npm-node22",
-            "version": "12.2.1"
+            "version": "12.2.2"
           },
           {
             "licenses": [
@@ -416,7 +416,7 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.9.0"
+            "version": "2.9.2"
           },
           {
             "licenses": [
@@ -539,7 +539,7 @@
           {
             "name": "@npmcli/promise-spawn",
             "purl": "",
-            "version": "10.0.0"
+            "version": "10.0.1"
           },
           {
             "name": "@npmcli/query",
@@ -624,7 +624,7 @@
           {
             "name": "bin-links",
             "purl": "",
-            "version": "7.0.0"
+            "version": "7.0.1"
           },
           {
             "name": "binary-extensions",
@@ -769,7 +769,7 @@
           {
             "name": "ip-address",
             "purl": "",
-            "version": "10.7.2"
+            "version": "10.7.5"
           },
           {
             "name": "is-cidr",
@@ -819,7 +819,7 @@
           {
             "name": "libnpmexec",
             "purl": "",
-            "version": "11.0.4"
+            "version": "11.0.5"
           },
           {
             "name": "libnpmfund",
@@ -934,7 +934,7 @@
           {
             "name": "npm",
             "purl": "",
-            "version": "12.2.1"
+            "version": "12.2.2"
           },
           {
             "name": "npm-audit-report",
@@ -994,7 +994,7 @@
           {
             "name": "pacote",
             "purl": "",
-            "version": "22.0.0"
+            "version": "22.0.1"
           },
           {
             "name": "parse-conflict-json",
@@ -1069,7 +1069,7 @@
           {
             "name": "semver",
             "purl": "",
-            "version": "7.8.5"
+            "version": "7.8.6"
           },
           {
             "name": "signal-exit",
@@ -1154,7 +1154,7 @@
           {
             "name": "undici",
             "purl": "",
-            "version": "6.29.0"
+            "version": "6.29.1"
           },
           {
             "name": "util-deprecate",
@@ -1213,9 +1213,9 @@
       }
     },
     "24-pkg-latest": {
-      "app_version": "24.22.2",
+      "app_version": "24.22.3",
       "arch": "amd64",
-      "generated": "2026-11-14T22:30:06Z",
+      "generated": "2026-11-17T23:33:11Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1571,28 +1571,28 @@
               "GPLv2"
             ],
             "name": "liblz4",
-            "version": "1.10.0_2,1"
+            "version": "1.11.1,1"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.70.0"
+            "version": "1.71.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.18.0"
+            "version": "1.19.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.25.0"
+            "version": "1.26.0"
           },
           {
             "licenses": [
@@ -1606,7 +1606,7 @@
               "MIT"
             ],
             "name": "llhttp",
-            "version": "9.4.3"
+            "version": "9.4.4"
           },
           {
             "licenses": [
@@ -1627,14 +1627,14 @@
               "MIT"
             ],
             "name": "node24",
-            "version": "24.22.2"
+            "version": "24.22.3"
           },
           {
             "licenses": [
               "ART20"
             ],
             "name": "npm-node24",
-            "version": "12.2.1"
+            "version": "12.2.2"
           },
           {
             "licenses": [
@@ -1648,7 +1648,7 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.9.0"
+            "version": "2.9.2"
           },
           {
             "licenses": [
@@ -1771,7 +1771,7 @@
           {
             "name": "@npmcli/promise-spawn",
             "purl": "",
-            "version": "10.0.0"
+            "version": "10.0.1"
           },
           {
             "name": "@npmcli/query",
@@ -1856,7 +1856,7 @@
           {
             "name": "bin-links",
             "purl": "",
-            "version": "7.0.0"
+            "version": "7.0.1"
           },
           {
             "name": "binary-extensions",
@@ -2001,7 +2001,7 @@
           {
             "name": "ip-address",
             "purl": "",
-            "version": "10.7.2"
+            "version": "10.7.5"
           },
           {
             "name": "is-cidr",
@@ -2051,7 +2051,7 @@
           {
             "name": "libnpmexec",
             "purl": "",
-            "version": "11.0.4"
+            "version": "11.0.5"
           },
           {
             "name": "libnpmfund",
@@ -2166,7 +2166,7 @@
           {
             "name": "npm",
             "purl": "",
-            "version": "12.2.1"
+            "version": "12.2.2"
           },
           {
             "name": "npm-audit-report",
@@ -2226,7 +2226,7 @@
           {
             "name": "pacote",
             "purl": "",
-            "version": "22.0.0"
+            "version": "22.0.1"
           },
           {
             "name": "parse-conflict-json",
@@ -2301,7 +2301,7 @@
           {
             "name": "semver",
             "purl": "",
-            "version": "7.8.5"
+            "version": "7.8.6"
           },
           {
             "name": "signal-exit",
@@ -2386,7 +2386,7 @@
           {
             "name": "undici",
             "purl": "",
-            "version": "6.29.0"
+            "version": "6.29.1"
           },
           {
             "name": "util-deprecate",
@@ -2445,9 +2445,9 @@
       }
     },
     "26-pkg-latest": {
-      "app_version": "26.13.0",
+      "app_version": "26.13.1",
       "arch": "amd64",
-      "generated": "2026-11-14T22:30:29Z",
+      "generated": "2026-11-17T23:32:48Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2817,28 +2817,28 @@
               "GPLv2"
             ],
             "name": "liblz4",
-            "version": "1.10.0_2,1"
+            "version": "1.11.1,1"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp2",
-            "version": "1.70.0"
+            "version": "1.71.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libnghttp3",
-            "version": "1.18.0"
+            "version": "1.19.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "libngtcp2",
-            "version": "1.25.0"
+            "version": "1.26.0"
           },
           {
             "licenses": [
@@ -2859,7 +2859,7 @@
               "MIT"
             ],
             "name": "llhttp",
-            "version": "9.4.3"
+            "version": "9.4.4"
           },
           {
             "licenses": [
@@ -2888,14 +2888,14 @@
               "MIT"
             ],
             "name": "node26",
-            "version": "26.13.0"
+            "version": "26.13.1"
           },
           {
             "licenses": [
               "ART20"
             ],
             "name": "npm-node26",
-            "version": "12.2.1"
+            "version": "12.2.2"
           },
           {
             "licenses": [
@@ -2909,7 +2909,7 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.9.0"
+            "version": "2.9.2"
           },
           {
             "licenses": [
@@ -3039,7 +3039,7 @@
           {
             "name": "@npmcli/promise-spawn",
             "purl": "",
-            "version": "10.0.0"
+            "version": "10.0.1"
           },
           {
             "name": "@npmcli/query",
@@ -3124,7 +3124,7 @@
           {
             "name": "bin-links",
             "purl": "",
-            "version": "7.0.0"
+            "version": "7.0.1"
           },
           {
             "name": "binary-extensions",
@@ -3269,7 +3269,7 @@
           {
             "name": "ip-address",
             "purl": "",
-            "version": "10.7.2"
+            "version": "10.7.5"
           },
           {
             "name": "is-cidr",
@@ -3319,7 +3319,7 @@
           {
             "name": "libnpmexec",
             "purl": "",
-            "version": "11.0.4"
+            "version": "11.0.5"
           },
           {
             "name": "libnpmfund",
@@ -3434,7 +3434,7 @@
           {
             "name": "npm",
             "purl": "",
-            "version": "12.2.1"
+            "version": "12.2.2"
           },
           {
             "name": "npm-audit-report",
@@ -3494,7 +3494,7 @@
           {
             "name": "pacote",
             "purl": "",
-            "version": "22.0.0"
+            "version": "22.0.1"
           },
           {
             "name": "parse-conflict-json",
@@ -3569,7 +3569,7 @@
           {
             "name": "semver",
             "purl": "",
-            "version": "7.8.5"
+            "version": "7.8.6"
           },
           {
             "name": "signal-exit",
@@ -3654,7 +3654,7 @@
           {
             "name": "undici",
             "purl": "",
-            "version": "6.29.0"
+            "version": "6.29.1"
           },
           {
             "name": "util-deprecate",
